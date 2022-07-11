@@ -1,8 +1,9 @@
 {
-  "name": "fcc-learn-npm-package-json",
-  "author": "Shing Fung",
-  "description": "A project that does something awesome",
-  "keywords": [ "freecodecamp" ],
+	"name": "fcc-learn-npm-package-json",
+	"author": "Shing Fung",
+	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.18.1"
 	},
